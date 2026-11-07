@@ -1,0 +1,8 @@
+# Fichiers de données : ne jamais les publier dans ce dépôt public
+*.json.gz
+*reprise*.json
+FAS-MUFID_sauvegarde_*.json
+*.xlsx
+*.xls
+*.csv
+*.bundle
